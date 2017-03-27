@@ -1,3 +1,6 @@
+#Andy Wahyu Hartato/14201125  
+
+
 #include <stdio.h>
 #include <windows.h>
 
